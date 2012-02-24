@@ -4,5 +4,5 @@ Improvements:
 * Use poll/epoll
 * Allow hostname and timeout period in command line options
 * UDP
-
+* IPv6
 
